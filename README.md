@@ -40,12 +40,15 @@ Download from the links below.
 We suggest you install both the x86 and x64 versions.
 
 x86: [https://download.microsoft.com/download/1/6/5/1...](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe)
+
 x64: [https://download.microsoft.com/download/1/6/5/1...](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe)
 
 We suggest also installing "Microsoft Visual C++ 2015 - 2022 Redistributable".
 
-Download from the links below. I suggest you install both the x86 and x64 versions.
+Download from the links below. We suggest you install both the x86 and x64 versions.
+
 x86: https://aka.ms/vs/17/release/vc_redist.x86.exe
+
 x64: https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 Congratulations! You have successfully set up the uPyCraft IDE on your Windows PC and are ready to program your IoT devices. Keep exploring and building amazing IoT projects with Team Digipodium!
