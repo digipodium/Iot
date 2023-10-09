@@ -36,7 +36,7 @@ We will guide you through the process of setting up the uPyCraft IDE on a Window
 ##  Troubleshooting
 Download and Install Microsoft Visual C++ Redistributable:
 
-Visit the Microsoft Download Center: https://www.microsoft.com/en-us/download/details.aspx?id=5555.
+Visit the Microsoft Download Center: [Visual C++ redistributable](https://www.microsoft.com/en-in/download/details.aspx?id=48145)
 Select and download the appropriate version of the Microsoft Visual C++ Redistributable package (x86 for 32-bit systems or x64 for 64-bit systems).
 Follow the installation instructions provided by Microsoft to install the package.
 
